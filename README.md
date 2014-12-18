@@ -1,3 +1,3 @@
 MyProject
 =========
-hi,fdhdhhghsjj
+Hi, This is first commit.
